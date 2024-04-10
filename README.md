@@ -1,4 +1,4 @@
-# (m, n) Correlating Branch Predictor in gem5 simulator
+# (m, n) Correlating Branch Predictor for gem5 cycle-accurate CPU and system-level simulator
 
 The value of the m-bit global history is used as an index to select one of 2^m local n-bit predictors (2^m local predictors per "address hash bucket").
 
